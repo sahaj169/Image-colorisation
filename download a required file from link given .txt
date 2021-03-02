@@ -1,0 +1,2 @@
+file  = colorization_release_v2.caffemodel
+link = https://github.com/opencv/opencv/tree/master/data/haarcascades
